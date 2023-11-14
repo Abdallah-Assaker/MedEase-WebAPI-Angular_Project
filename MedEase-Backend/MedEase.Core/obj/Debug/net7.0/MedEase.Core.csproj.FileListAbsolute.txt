@@ -1,0 +1,12 @@
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\bin\Debug\net7.0\MedEase.Core.deps.json
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\bin\Debug\net7.0\MedEase.Core.dll
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\bin\Debug\net7.0\MedEase.Core.pdb
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\obj\Debug\net7.0\MedEase.Core.csproj.AssemblyReference.cache
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\obj\Debug\net7.0\MedEase.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\obj\Debug\net7.0\MedEase.Core.AssemblyInfoInputs.cache
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\obj\Debug\net7.0\MedEase.Core.AssemblyInfo.cs
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\obj\Debug\net7.0\MedEase.Core.csproj.CoreCompileInputs.cache
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\obj\Debug\net7.0\MedEase.Core.dll
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\obj\Debug\net7.0\refint\MedEase.Core.dll
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\obj\Debug\net7.0\MedEase.Core.pdb
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.Core\obj\Debug\net7.0\ref\MedEase.Core.dll

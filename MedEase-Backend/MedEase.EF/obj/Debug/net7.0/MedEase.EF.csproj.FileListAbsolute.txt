@@ -1,0 +1,17 @@
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\bin\Debug\net7.0\MedEase.EF.deps.json
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\bin\Debug\net7.0\MedEase.EF.runtimeconfig.json
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\bin\Debug\net7.0\MedEase.EF.dll
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\bin\Debug\net7.0\MedEase.EF.pdb
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\bin\Debug\net7.0\MedEase.Core.dll
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\bin\Debug\net7.0\MedEase.Core.pdb
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\MedEase.EF.csproj.AssemblyReference.cache
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\MedEase.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\MedEase.EF.AssemblyInfoInputs.cache
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\MedEase.EF.AssemblyInfo.cs
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\MedEase.EF.csproj.CoreCompileInputs.cache
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\MedEase.EF.csproj.CopyComplete
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\MedEase.EF.dll
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\refint\MedEase.EF.dll
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\MedEase.EF.pdb
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\MedEase.EF.genruntimeconfig.cache
+E:\Route\Git-20220924T044244Z-001\Git\MVC\MedEase-WebAPI-Angular_Project\MedEase-Backend\MedEase.EF\obj\Debug\net7.0\ref\MedEase.EF.dll
